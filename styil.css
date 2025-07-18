@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    color: black;
+}
+form{
+    text-align: center;
+    margin-top: 200px;
+    background-color: antiquewhite;
+    margin-left: -200px;
+    margin-right: 800px;
+    border-radius: 10px;
+}
+label{
+    color: rgb(18, 228, 53);
+    font-size: 20px;
+}
+input{
+    color: rgb(113, 124, 124);
+}
+body{
+    background-color: rgb(255, 47, 151);
+    background-image: url('naruto.jpg');
+    background-position: center;
+    height: 100vh;
+}
